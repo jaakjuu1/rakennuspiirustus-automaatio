@@ -1,0 +1,60 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+.venv/
+env/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+dist/
+build/
+*.egg-info/
+
+# Node
+node_modules/
+.next/
+out/
+.pnpm-store/
+
+# Ympäristö
+.env
+.env.local
+.env.*.local
+*.pem
+secrets/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Projektidatan roskat (kun projekteja alkaa syntyä)
+projects/*/inputs/photos/
+projects/*/processed/model.glb
+projects/*/processed/model.ply
+projects/*/processed/mvs/
+projects/*/processed/colmap/
+projects/*/processed/sparse/
+projects/*/processed/dense/
+*.tmp
+
+# FreeCAD
+*.FCStd1
+*.FCBak
+
+# Lokit
+*.log
+logs/
+
+# Kokeilut
+experiments/
+playground/
