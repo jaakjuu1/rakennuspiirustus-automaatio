@@ -24,8 +24,8 @@
 |---|---|---|---|
 | **Pääty 1** (kapea) | Valkoinen pystypaneeli ylhäällä, tummanharmaa vaakapaneli alhaalla (korkea sokkeli) | 2 kapeaa korkeaa pystyikkunaa | Pergolarakenne oikealla puolella |
 | **Pääty 2** (terassipääty) | Sama tummanharmaa vaakapanelointi | Lasiseinät, suuret liukuovet | Avoterassi, istuskeluryhmä |
-| **Pitkä sivu** | Vaalea vaakapaneli (näkyy osittain) | 2 korkeaa vaakasuuntaista nauhaikkunaa vierekkäin | Savupiippu korkealla puolella, pulpettikatto selvästi näkyvissä |
-| **Pitkä sivu toinen** | _ei vielä kuvattu_ | _täytetään_ | _täytetään_ |
+| **Pitkä sivu 1** | Vaalea vaakapaneli (näkyy osittain) | 2 korkeaa vaakasuuntaista nauhaikkunaa vierekkäin | Savupiippu korkealla puolella, pulpettikatto selvästi näkyvissä |
+| **Pitkä sivu 2** | Sama vaalea vaakapaneli kuin sivulla 1 | Ei ikkunoita | **Ei voida kuvata — naapurirakennus edessä**. Käytetään peilikuvana sivusta 1, ilman ikkunoita |
 
 ### Sisätilat
 - _ei vielä kuvattu — tarvitaan kuvat löylyhuoneesta, pesuhuoneesta ja pukuhuoneesta_
@@ -36,6 +36,12 @@
 - **Pergolarakenne** — yhden päädyn yllä, antaa varjoa terassille
 - **Korkea sokkeli** — tummanharmaa paneelointi on selvästi korkeampi kuin tyypillinen, mahdollisesti tuulettuva puurakenteinen
 - **Modernit materiaalit** — pysty- ja vaakapaneloinnin yhdistelmä, kaksi väritystä (valkoinen + tummanharmaa)
+
+### Naapurirakennus rajoittaa kuvauksen
+- Toinen pitkä sivu on kokonaan peitossa naapurirakennuksen takia
+- Käytetään symmetriaoletusta: sivu 2 peilikuvana sivusta 1 ilman ikkunoita
+- Photogrammetriassa tämä sivu jää osittain rekonstruoimatta — täydennetään peilikuvalla ja laser-mittauksilla
+- CAD-generoinnissa sivu piirretään symmetrian pohjalta (käyttäjä vahvistaa)
 
 ## Tilanne
 
