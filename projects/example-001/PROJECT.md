@@ -8,7 +8,7 @@
 | Kunta | Heinola (Päijät-Häme) |
 | Kiinteistötunnus | _täytetään (löytyy kaava-PDF:stä tai kiinteistörekisteristä)_ |
 | Rakennustyyppi | Piharakennus |
-| Käyttötarkoitus | Saunarakennus (löytynyt savupiippu!) |
+| Käyttötarkoitus | Vierasmökki / lasitettu terassi (KORJATTU: ei sauna, vaikka savupiippu löytyy) |
 | Kerrosluku | 1 |
 | Kerrosala-arvio | ~30 m² |
 | Rakennusvuosi | 2026 (valmistunut tänä vuonna) |
@@ -28,12 +28,25 @@
 | **Pitkä sivu 2** | Sama vaalea vaakapaneli kuin sivulla 1 | Ei ikkunoita | **Ei voida kuvata — naapurirakennus edessä**. Käytetään peilikuvana sivusta 1, ilman ikkunoita |
 
 ### Sisätilat
-- _ei vielä kuvattu — tarvitaan kuvat löylyhuoneesta, pesuhuoneesta ja pukuhuoneesta_
+- **Yksi avoin tila** — ei huonejakoa näkyvissä
+- Lasitettu terassi, jossa kiinteä sisustus
+- Keittiö: kaasuliesi, retro-SMEG-jääkaappi, pesuallas, liesituuletin
+- Oleskelutila: sohva, nojatuolit, ruokapöytä
+- Lämmitys: musta kamiina/puuhella, savupiippu
+- Lattia: lautalattia (terassilaudat)
+- Katto: aaltomuovikatto (kirkas), puupalkit
+- **Ei näy kuvissa:** löylyhuoneen ovi, suihkutila, makuuhuone, varasto — nämä ovat mahdollisesti muualla rakennuksessa
+
+### KORJAUS: tämä ei ole saunarakennus
+- Savupiippu kuuluu takkakamiinalle, ei saunan kiukaalle
+- Koko näkyvä tila on yhtä avonaista — saunassa olisi selkeä jako löylyhuoneeseen
+- Käyttötarkoitus tarkemmin: **vierasmökki / kesähuone / lasitettu terassi**
 
 ### Erityispiirteet kuvista
-- **Saunarakennus** — savupiippu vahvistaa tämän
-- **Avoterassi lasiseinin** — koko rakennuksen levyinen, toisessa päädyssä
-- **Pergolarakenne** — yhden päädyn yllä, antaa varjoa terassille
+- **Lasitettu terassi / vierasmökki** — koko rakennus on yhtä lasitettua tilaa, ei erillisiä huoneita
+- **Kiinteä keittiö** — kaasuliesi + jääkaappi + pesuallas: rakennus on varustettu ympärivuotiseen käyttöön
+- **Kamiina/puuhella** — savupiippu tulee tästä, ei kiukaasta
+- **Aaltomuovikatto** — kirkas muovikatto päästää valon läpi
 - **Korkea sokkeli** — tummanharmaa paneelointi on selvästi korkeampi kuin tyypillinen, mahdollisesti tuulettuva puurakenteinen
 - **Modernit materiaalit** — pysty- ja vaakapaneloinnin yhdistelmä, kaksi väritystä (valkoinen + tummanharmaa)
 
