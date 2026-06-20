@@ -8,12 +8,34 @@
 | Kunta | Heinola (Päijät-Häme) |
 | Kiinteistötunnus | _täytetään (löytyy kaava-PDF:stä tai kiinteistörekisteristä)_ |
 | Rakennustyyppi | Piharakennus |
+| Käyttötarkoitus | Saunarakennus (löytynyt savupiippu!) |
 | Kerrosluku | 1 |
 | Kerrosala-arvio | ~30 m² |
 | Rakennusvuosi | 2026 (valmistunut tänä vuonna) |
-| Kattomuoto | Pulpettikatto |
+| Kattomuoto | Pulpettikatto (kaltevuus vasemmalta oikealle) |
 | Tontin pinta-ala | _täytetään_ |
 | Kaava | _täytetään_ |
+
+## Kohteessa dokumentoidut piirteet (kuvista)
+
+### Julkisivut (neljä sivua)
+
+| Sivu | Materiaali | Aukot | Erityistä |
+|---|---|---|---|
+| **Pääty 1** (kapea) | Valkoinen pystypaneeli ylhäällä, tummanharmaa vaakapaneli alhaalla (korkea sokkeli) | 2 kapeaa korkeaa pystyikkunaa | Pergolarakenne oikealla puolella |
+| **Pääty 2** (terassipääty) | Sama tummanharmaa vaakapanelointi | Lasiseinät, suuret liukuovet | Avoterassi, istuskeluryhmä |
+| **Pitkä sivu** | Vaalea vaakapaneli (näkyy osittain) | 2 korkeaa vaakasuuntaista nauhaikkunaa vierekkäin | Savupiippu korkealla puolella, pulpettikatto selvästi näkyvissä |
+| **Pitkä sivu toinen** | _ei vielä kuvattu_ | _täytetään_ | _täytetään_ |
+
+### Sisätilat
+- _ei vielä kuvattu — tarvitaan kuvat löylyhuoneesta, pesuhuoneesta ja pukuhuoneesta_
+
+### Erityispiirteet kuvista
+- **Saunarakennus** — savupiippu vahvistaa tämän
+- **Avoterassi lasiseinin** — koko rakennuksen levyinen, toisessa päädyssä
+- **Pergolarakenne** — yhden päädyn yllä, antaa varjoa terassille
+- **Korkea sokkeli** — tummanharmaa paneelointi on selvästi korkeampi kuin tyypillinen, mahdollisesti tuulettuva puurakenteinen
+- **Modernit materiaalit** — pysty- ja vaakapaneloinnin yhdistelmä, kaksi väritystä (valkoinen + tummanharmaa)
 
 ## Tilanne
 
@@ -89,7 +111,7 @@ Kopioi alla olevat kohdat ja täytä mittauksesi:
 
 ## Tila
 
-- [ ] Kohteessa käyty ja kuvat otettu
+- [x] Kohteessa käyty ja kuvia otettu (4 kuvaa, lisää tarvitaan)
 - [ ] Laser-mittaukset dokumentoitu
 - [ ] Kaava-PDF hankittu
 - [ ] Pohjaluonnos piirretty
@@ -98,6 +120,13 @@ Kopioi alla olevat kohdat ja täytä mittauksesi:
 - [ ] CAD-piirustukset generoitu
 - [ ] Ihmisen tarkistus tehty
 - [ ] Lopulliset tiedostot toimitettu kuntaan
+
+## Seuraavat askeleet (tärkeysjärjestyksessä)
+
+1. **Lisää kuvia** — erityisesti puuttuvat sivut ja sisätilat
+2. **Laser-mittaukset** — ilman niitä mittakaavaa ei saada
+3. **Kaava-PDF** — tarvitaan kunnan kaavamääräykset
+4. **Pohjaluonnos** — paperille huoneiden ja mittojen kanssa
 
 ## Muistiinpanot
 
