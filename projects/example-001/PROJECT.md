@@ -28,14 +28,14 @@
 | **Pitkä sivu 2** | Sama vaalea vaakapaneli kuin sivulla 1 | Ei ikkunoita | **Ei voida kuvata — naapurirakennus edessä**. Käytetään peilikuvana sivusta 1, ilman ikkunoita |
 
 ### Sisätilat
-- **Yksi avoin tila** — ei huonejakoa näkyvissä
+- **Yksi avoin tila** — ei huonejakoa (vahvistettu: koko rakennus on yhtä lasitettua tilaa)
 - Lasitettu terassi, jossa kiinteä sisustus
 - Keittiö: kaasuliesi, retro-SMEG-jääkaappi, pesuallas, liesituuletin
 - Oleskelutila: sohva, nojatuolit, ruokapöytä
 - Lämmitys: musta kamiina/puuhella, savupiippu
 - Lattia: lautalattia (terassilaudat)
 - Katto: aaltomuovikatto (kirkas), puupalkit
-- **Ei näy kuvissa:** löylyhuoneen ovi, suihkutila, makuuhuone, varasto — nämä ovat mahdollisesti muualla rakennuksessa
+- **Pohjapiirros:** yksi suorakaide, jossa kiintokalusteet (keittiö, kamiina, sohva-alue)
 
 ### KORJAUS: tämä ei ole saunarakennus
 - Savupiippu kuuluu takkakamiinalle, ei saunan kiukaalle
@@ -130,7 +130,7 @@ Kopioi alla olevat kohdat ja täytä mittauksesi:
 
 ## Tila
 
-- [x] Kohteessa käyty ja kuvia otettu (4 kuvaa, lisää tarvitaan)
+- [x] Kohteessa käyty ja kuvia otettu (8 kuvaa: 4 ulkoa, 4 terassilta sisältä)
 - [ ] Laser-mittaukset dokumentoitu
 - [ ] Kaava-PDF hankittu
 - [ ] Pohjaluonnos piirretty
@@ -142,10 +142,28 @@ Kopioi alla olevat kohdat ja täytä mittauksesi:
 
 ## Seuraavat askeleet (tärkeysjärjestyksessä)
 
-1. **Lisää kuvia** — erityisesti puuttuvat sivut ja sisätilat
-2. **Laser-mittaukset** — ilman niitä mittakaavaa ei saada
-3. **Kaava-PDF** — tarvitaan kunnan kaavamääräykset
-4. **Pohjaluonnos** — paperille huoneiden ja mittojen kanssa
+1. **Laser-mittaukset** — kriittisin puuttuva tieto
+   - Ulkomitat (pituus × leveys)
+   - Räystäskorkeudet (matalalta ja korkealta)
+   - Sisätilan korkeus
+   - Oviaukon leveys (referenssipiste)
+2. **Kaava-PDF** — kunnan määräykset (voi hakea myöhemmin kotona)
+3. **Pohjaluonnos** — käsin piirretty paperille kiintokalusteiden paikoilla
+
+## Mitä kuvista on nyt saatu selville
+
+✅ Julkisivut 3/4 (yksi pitkä sivu peitossa naapurirakennuksen takia, käytetään peilikuvana)
+✅ Sisätilat kokonaan (yksi avoin tila, keittiö + kamiina + sohva)
+✅ Pulpettikaton kaltevuussuunta (vasemmalta oikealle)
+✅ Savupiippu vahvistettu (tulee takkakamiinasta)
+✅ Modernit materiaalit (pysty- ja vaakapanelointi, valkoinen + tummanharmaa)
+
+## Mitä ei vielä tiedetä
+
+❌ Tarkat mitat (vaatii laser-mittauksen)
+❌ Kaavamääräykset (vaatii kaava-PDF:n)
+❌ Tontin rajat asemapiirrosta varten
+❌ Perustustapa (maanvarainen, pilari, vai routaeristetty laatta)
 
 ## Muistiinpanot
 
